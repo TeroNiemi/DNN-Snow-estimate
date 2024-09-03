@@ -1,0 +1,1 @@
+    model.fit(train_x, train_y, epochs=100, batch_size=16, verbose=1)
